@@ -4,11 +4,13 @@
 
 Bem-vindo(a). Esse projeto traz uma análise de vendas de um ecommerce fictício. O objetivo é responder questionamentos que guiem tomadas de decisão por parte da gerência da empresa.
 
-Esse projeto é baseado no desafio proposto pela comunidade "comunidados". A resolução oficial está disponível em https://www.youtube.com/live/vF-Ahnnt1mA. Apesar da existência de uma resolução, esse projeto foi feito de forma independente.
+Esse projeto é baseado no desafio proposto pela comunidade "comunidados". A resolução oficial está disponível [nesse vídeo](https://www.youtube.com/live/vF-Ahnnt1mA). Apesar da existência de uma resolução, esse projeto foi feito de forma independente.
 
 ## Dados
 
 A base de dados usada nesse projeto é referente a vendas de um ecommerce. Foi criada usando dados fictícios e disponibilizada pelos organizadores da comunidade. Um dicionário dos dados está disponível [aqui](dicionario.md).
+
+Por ser feita especialmente para esse projeto, a base de dados já vem sem erros ou anomalias.
 
 _OBS: Incluir a base de dados em um repositório não é uma prática recomendada. Porém no caso específico desse projeto a base tem apenas 10000 linhas e menos de 1mb. Por isso a base também foi incluída no repositório para possibilitar replicação da análise._
 
