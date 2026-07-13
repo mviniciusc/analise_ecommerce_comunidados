@@ -36,8 +36,8 @@ Já as atividades a serem respondidas usando Python são:
 1. Ler o arquivo .csv
 2. Criar coluna faturamento (quantidade * preço unitário)
 3. Agrupar faturamento por produto
-4. Agrupar faturamento por categoria
-5. Agrupar faturamento por cliente
+4. Agrupar faturamento por cliente
+5. Agrupar faturamento por categoria
 6. Criar gráfico de faturamento por categoria
 7. Exportar arquivo resumo_vendas.csv
 
