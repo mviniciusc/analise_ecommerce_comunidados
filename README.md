@@ -14,7 +14,9 @@ Por ser feita especialmente para esse projeto, a base de dados já foi criada se
 
 _OBS: Incluir a base de dados em um repositório não é uma prática recomendada. Porém no caso específico desse projeto a base tem apenas 10000 linhas e menos de 1mb. Por isso a base também foi incluída no repositório para possibilitar replicação da análise._
 
-## Desafio
+## O Desafio
+
+Os seguintes exercícios são parte do desafio original proposto pela comunidade. Todos os passos para a resolução estão [nesse notebook](exercicios_propostos.ipynb).
 
 ### SQL
 As questões a serem respondidas usando SQL são:
@@ -41,4 +43,10 @@ Já as atividades a serem respondidas usando Python são:
 6. Criar gráfico de faturamento por categoria
 7. Exportar arquivo resumo_vendas.csv
 
-Além dessas questões, o desafio também propõe orientações para _insights_ de negócios. Porém nesse ponto esta análise difere do desafio original, pois serão traçadas estratégias de análise independentes.
+
+## A Análise
+
+Além desses exercícios, o desafio também propõe orientações para _insights_ de negócios. Porém nesse ponto esta análise difere do desafio original, pois foram traçadas estratégias de análise independentes.
+
+O notebook com a parte técnica dessa análise está disponível [nesse link](analise.ipynb) e a apresentação dos resultados está disponível em
+
